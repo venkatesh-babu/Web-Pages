@@ -1,0 +1,1062 @@
+*{
+   padding:0;
+   margin:0;
+}
+body {
+   font-family:'work sans';
+
+}
+
+.head {
+    width: 100%;
+    position: sticky;
+    background-color: white;
+    z-index: 1;
+    top: 0;
+         
+}
+.head1 {
+    width:85%;
+    margin: 0 auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+ 
+
+.head1 img {
+     cursor:pointer;
+}
+
+.head1 > ul{
+             
+        list-style-type:none;
+        float:right;
+        margin-top:1.5%;
+   font-family: 'Oswald';font-size: 14px;
+}
+.head1 > ul >li {
+	float: left;
+        margin-right: 62px;
+        cursor:pointer;
+            font: 400 14px/20px "Oswald", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    letter-spacing: .08em;
+     
+}
+.head1 > ul >li:hover {
+     color:blue;
+
+}
+.cs-banner {
+    position:relative;
+     
+}
+.cs-banner-text {
+   position: absolute;
+    left: 6%;
+    top: 18%;
+    
+}
+.cs-banner-text h6 {
+    font-size: 16px;
+    letter-spacing: .2em;
+    font-family: "Oswald", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+     font-weight: 400;
+ 
+}
+.cs-banner-text h1 { 
+
+    font-size: 58px;
+    margin-top: 10px;
+    font-weight: 400;
+
+}
+.cs-banner-text p {
+font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: .03em;
+    font-weight: 300;
+    width: 33%;
+    margin-top: 2%;
+       margin-left: 4%;
+}
+.button0 {
+          
+  
+  font-size:16px;		 
+  padding: 16px 60px;
+  background-color: #4854ed;
+  border-radius:8px;
+  border:0;
+  color:#ffffff;
+  margin-top:38px;
+  cursor:pointer;
+ font-family: "Oswald", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.2em;    
+
+}
+
+.button0:hover {
+    background-color:#343a85; 
+}
+  
+.cs-body {
+        float:right; 
+        width : 35%;
+        margin: 5% 7%;
+}
+.cs-aa h3 {
+        margin-bottom:6%;
+        color: #29293A;
+         font-size:36px; 
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;    
+}
+.cs-body > p {
+        margin-bottom: 15px;
+        color:#74757F;       
+        line-height:1.5;
+        font-size:16px;
+      font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 300;
+      letter-spacing: .03em;
+}
+.button {
+          
+
+  font-size:16px;		 
+  padding: 16px 60px;
+  background-color: #4854ed;
+  border-radius:8px;
+  border:0;
+  color:#ffffff;
+  margin-top:27px;
+  cursor:pointer;
+ font-family: "Oswald", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.2em;    
+
+}
+
+.button:hover {
+    background-color:#343a85; 
+}
+
+.cs-types {
+
+       width:100%;
+       float:left;
+       background-color: #f5f6fa;
+          font-family: 'Work Sans';       
+}
+ .cs-types-containers  {
+       
+       width: 80%;
+        margin:0 auto;
+        overflow:hidden ;      
+}
+
+.cs-types-containers p {
+
+      line-height: 1.5;
+
+}
+
+.cs-cc h4  {
+  
+    color: #29293A;
+    font-size: 24px;
+    margin-bottom:5%;
+    overflow:hidden;
+ font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;   
+     margin-left: 12%;
+}
+
+.cs-logo{
+
+      float:left;
+      font-size: 150%;
+      color: #4854ED;
+}
+.cs-quem {
+      
+       width:33%;
+       float:left;            
+        margin: 7% 0%;
+}
+
+
+.cs-quem p {
+       margin-left: 12%;
+       width:81%;
+       color: #74757F;   
+        font-size:16px;
+         font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 300;
+}
+.cs-midile {
+      float:left;
+      position:relative;
+}
+.cs-midile-text {
+
+      position:absolute;
+      bottom:16%;
+      left:53%;
+      
+}
+.cs-midile-text h4 {
+    color: #ffffff;
+    font-size: 24px;
+   font-weight: 400;
+     margin-bottom: 1%;
+}
+.cs-midile-text h3 {
+  font-size: 36px;
+    color: #ffffff;
+     font-weight: 700;
+ }
+.cs-midile-text p {
+   color: #aeb1be;
+    font-size: 16px;
+    width: 74%;
+    margin-top: 5%;
+    line-height: 1.5;
+    font-weight: 300;
+    letter-spacing: .03em;
+
+}
+.button01 {
+          
+  
+  font-size:14px;		 
+  padding: 13px 30px;
+  background-color: #4854ed;
+  border-radius:8px;
+  border:0;
+  color:#ffffff;
+  margin-top:33px;
+  cursor:pointer;
+ font-family: "Oswald", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.2em;    
+
+}
+
+.button01:hover {
+    background-color:#343a85; 
+}
+
+
+.cs-fotter  {
+         width:100%;
+          overflow:hidden;
+       background-color: #f5f6fa;
+          font-family: 'Work Sans';
+}
+
+.cs-fotter-title h3 {
+        margin-top:6%;
+        font-size:36px;
+      font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  text-align:center;       
+  color:#29293a;  
+}
+.cs-fotter-container {
+
+       
+       width: 80%;
+        margin:0 auto;
+        overflow:hidden;
+        margin-bottom:6%;
+}
+.cs-fotter1 {
+        width:30%;
+       float:left;            
+        margin-top: 6%;
+              
+}
+.cs-nn {
+    margin-right:5%;
+}
+
+.cs-nn1 {
+    margin-right:5%;
+}
+.cs-nn3 {
+    margin-right:5%;
+}
+
+.cs-nn4 {
+    margin-right:5%;
+}
+.cs-fotter1 h4{
+       
+       margin-top:10%;
+       text-align: center;
+       color:#29293A;
+ font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+   font-size:24px;
+}
+.cs-fotter1 p{
+       text-align: center;
+         letter-spacing: .03em;
+     color:#74757F;
+     line-height:1.5;
+     margin-top: 16px;
+    font-size: 16px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 300;
+}
+
+.cs-fotter1 label {
+        
+               font-size:40px;
+            color: #4854ED;         
+}
+.cs-fotter1 div {
+       text-align:center;
+}
+.cs-last {
+    width:100%;
+    overflow:hidden;
+    margin-top:6%;
+    margin-bottom:6%;
+          font-family: 'Work Sans';
+}
+.cs-last-title h3 {
+    
+     text-align: center;
+     margin-bottom: 5%;
+    font-size: 36px;
+    color: #29293a;
+ font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+   margin-top:5%;
+}
+.cs-last-containers {
+     width:80%;
+      margin:0 auto;
+        overflow:hidden;
+}
+.cs-lastinside-common {
+       
+      width:47%;
+      font-size:80%;      
+      float:left;
+}
+.cs-lastinside-common h1{
+
+     cursor:pointer;
+    color: #4854ED;
+       font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size:20px;
+}
+
+.cs-ll {
+    color:#aeb1be;
+    font-size:16px;
+}
+.cs-lastinside-common label {
+    float:left;
+    margin-right:4%;
+    margin-top:1%;
+}
+.cs-ll2 {
+    font-size: 16px;
+    color: #74757f;
+    line-height: 1.5;
+    font-weight: 300;
+
+}
+
+.cs-lastinside {
+    margin-bottom:3%;
+
+}
+.cs-img img{
+
+    width:33%;
+    float:left;
+  border-radius:7%;
+
+}
+
+
+
+.cs-para{
+     margin-left:39%;
+
+    
+}
+
+.cs-para p{
+    margin-bottom:5%;
+    width:100%;
+    line-height:1.5;
+}
+
+.cs-lastinside2 {
+    margin-bottom:3%;
+    margin-left:4%;
+}
+
+.cs-img2 img{
+
+    
+    width:33%;
+    float:left;
+  border-radius:7%;
+
+
+}
+
+.cs-para2{
+     margin-left:39%;
+   
+}
+
+.cs-para2 p{
+    margin-bottom:5%;
+    width:100%;
+    line-height:1.5;
+}
+.cs-lastinside3 {
+
+}
+.cs-img3 img{
+
+    width:33%;
+    float:left;
+  border-radius:7%;
+
+}
+
+
+
+.cs-para3 {
+     margin-left:39%;
+}
+
+.cs-para3 p{
+    margin-bottom:5%;
+    width:100%;    
+    line-height:1.5;
+}
+
+.cs-lastinside4  {
+ margin-left:4%;
+}
+
+.cs-img4 img{
+
+    width:33%;
+    float:left;
+  border-radius:7%;
+
+}
+
+.cs-para4 {
+     margin-left:39%;
+     
+}
+
+.cs-para4 p{
+    margin-bottom:5%;
+    width:100%;
+     line-height:1.5;
+    
+}
+
+.button1{
+   
+  font-size:16px;		 
+  padding: 16px 60px;
+    background-color: #4854ed;
+   border:0;
+  border-radius:8px;
+  color:#ffffff;
+  text-align: center;
+    cursor:pointer;
+      margin-top:2%;
+       font-family: "Oswald", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.2em;
+    margin-bottom:5%;
+}
+.button1:hover {
+    background-color:#343a85;
+}
+.cs-lower{
+  width:100%;
+  float:left;
+  background-color: #f5f6fa;
+          font-family: 'Work Sans';      
+}
+.cs-lower-container {
+  width:80%;
+  margin:0 auto;
+  overflow:hidden;
+}
+.cs-lower-title h3 {
+       text-align: center;  
+       margin-top:5%;
+       margin-bottom:5%;
+       font-size:36px;
+       color:#29293a;
+         font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+}
+.cs-lower-container img {
+       width:30%;
+}
+.button2{
+   
+
+  font-size:16px;		 
+  padding: 16px 60px;
+  border-radius:8px;
+  text-align: center;
+  border-color: #4854ed;
+  margin:5% 0%;
+  cursor:pointer;
+      font-family: "Oswald", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.2em;
+    color: #29293a;
+}  
+
+.button2:hover{
+  background-color: #4854ed;
+  color:#ffffff;
+  
+
+}
+.line{
+   overflow:hidden;
+   width:100%;
+   background-color:#343a85;
+          font-family: 'Work Sans';  
+}
+.line-containers{
+   width: 65%;
+   margin:0 auto;    
+}
+.line-containers p{
+   font-size:24px;
+   margin:5% 0%;
+   color:white;  
+    float:left;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+       
+}
+.line-containers > p >b {
+
+   font-weight: 700;
+}
+
+.button4 {
+   
+  
+  font-size:14px;		 
+  padding: 13px 43px;
+  border-radius:8px;
+  color:#ffffff;
+  text-align: center;
+  border:0;
+  margin:4% 0%;
+  cursor:pointer;
+ background-color: #4854ed;
+  margin-left:5%;
+    font-family: "Oswald", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 500;
+     letter-spacing: 0.2em;
+}
+.button4:hover {
+   background-color:blue;   
+}
+
+.cs-testimonials-title {
+       text-align: center;  
+       margin-top:5%;
+       margin-bottom:5%;
+}
+.cs-testimonials {
+      width:100%;
+      float:left;
+      margin-bottom:9%;
+          font-family: 'Work Sans';
+}
+
+.cs-testimonials-title h3 {
+      color:#29293A;     
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size:36px;
+}
+.cs-testimonials-containers{
+
+    width:80%;
+    margin:0 auto;
+    overflow:hidden;
+        color: #74757F;    
+}
+
+.cs-testimonials-inside {
+
+   float:left;
+   width:49%;
+   
+
+}
+.cs-testimonials-inside label{
+   font-size:225%;
+
+}
+.cs-testimonials-inside p {
+
+    width:99%;
+    font-size:24px;
+   margin-top:6%;
+}
+.cs-testimonials-inside img {
+   float:left;
+   width:10%;
+   border-radius:68%;
+}
+.cs-pp {
+   width:34%;
+
+   margin-left:13%;
+}
+.cs-pp p{
+   font-size:16px;
+   margin-top:2%;
+ color: #aeb1be;
+    letter-spacing: .03em;
+  font-weight: 300;
+}
+.cs-pp h2{
+     color: #4854ed;
+    font-size: 20px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 300;
+    letter-spacing: .03em;
+     
+}
+.cs-in {
+   width:100%;
+   margin-top:6%;
+
+}
+
+.cs-testimonials-inside2 {
+
+   float:left;
+    width:49%;
+   margin-left:2%;
+   
+   
+}
+.cs-testimonials-inside2 label {
+   font-size:225%;
+
+}
+.cs-testimonials-inside2 p {
+
+    width:93%;
+   font-size:24px;
+   margin-top:6%;
+}
+
+.cs-testimonials-inside2 img{
+    float:left;
+     width:10%;
+   border-radius:68%;    
+}
+.cs-pp2 {
+   width:35%;
+    margin-left:13%;
+}
+.cs-pp2 p{
+   margin-top:2%;
+   font-size:16px;
+    color: #aeb1be;
+    letter-spacing: .03em;
+font-weight: 300;
+}
+.cs-pp2 h2{
+    color: #4854ed;
+    font-size: 20px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 300;
+    letter-spacing: .03em;
+ }
+
+.cs-in2 {
+   width:100%;
+   margin-top:6%;
+}
+.cs-latest {
+   width:100%;
+   float:left;
+   background-color:#f5f6fa;
+          font-family: 'Work Sans';
+}
+.cs-latest-title h3 {
+    text-align:center;
+    margin:4% 0%;
+margin-top: 6%;
+    margin-bottom: 4%;
+    font-weight: 400;
+    font-size:36px;
+       color: #29293A;
+}
+.cs-latest-container {
+   width:80%;
+   margin:0 auto;
+   overflow:hidden;
+   margin-bottom:3%;
+}
+.cs-pic {
+   width:63%;
+   float:left;
+   position:relative;
+}
+.cs-pic img {
+  width:92%; 
+ margin-bottom:5%;
+   border-radius:1%;
+  
+}
+.cs-pic-text {
+
+position: absolute;
+    left: 4%;
+    bottom: 15%;
+}
+.cs-pic-text ul {
+  list-style-type: none;
+
+    font-size: 16px;
+
+}
+.cs-pic-text ul li {
+   float: left;
+    padding-right:25px;
+    font-weight:300;
+    cursor: pointer;
+    letter-spacing: .03em;
+       color: #aeb1be;
+}
+.cs-pic-title h4 {
+     font-size: 24px;
+    margin-top: 8%;
+    color: #ffffff;
+    font-weight: 400;
+    text-align: left;
+}
+.cs-inner {
+   width:37%;
+
+   float:left;   
+    color: #74757F;
+}
+.button5 {
+     
+  float:left;
+  font-size:11px;		 
+  padding:  4% 6%;
+  border-radius:8%;
+  color:white;
+  text-align: center;
+ background-color: #747a7fb8;
+ border-color:white;
+}
+.button5:hover{
+  background-color: #0000ff;
+   opacity:74%;
+}
+
+
+.button5 b {
+   font-size:311%;
+}
+.cs-inner1 h4 {
+  margin-left:30%;
+  width:61%;
+   color: #4854ed;
+    
+    font-size: 24px;
+    font-weight: 400;
+ }
+.cs-inner1 p {
+    margin-left:30%;
+    margin-top:3%;
+font-size: 16px;
+    letter-spacing: .03em;
+    color: #29293a;
+    font-weight: 300;
+    opacity: 80%;
+}
+.cs-inner2 {
+
+    margin-top:10%;
+}
+.button6 {
+     
+  float:left;
+  font-size:11px;		 
+  padding:  4% 6%;
+  border-radius:8%;
+  color:white;
+  text-align: center;
+ background-color: #747a7fb8;
+ border-color:white;
+}
+.button6:hover{
+  background-color: #0000ff;
+   opacity:74%;
+}
+
+
+.button6 b {
+   font-size:311%;
+}
+.cs-inner2 h4 {
+  margin-left:30%;
+  width:68%;
+color: #4854ed;
+   
+    font-size: 24px;
+    font-weight: 400;
+}
+.cs-inner2 p {
+    margin-left:30%;
+    margin-top:3%;
+  font-size: 16px;
+    letter-spacing: .03em;
+    color: #29293a;
+    font-weight: 300;
+    opacity: 80%;
+}
+
+.cs-inner3 {
+    margin-top:10%;
+}
+.button7 {
+     
+  float:left;
+  font-size:11px;		 
+  padding:  4% 8%;
+  border-radius:8%;
+  color:white;
+  text-align: center;
+ background-color: #747a7fb8;
+ border-color:white;
+}
+.button7:hover{
+  background-color: #0000ff;
+   opacity:74%;
+
+
+}
+
+.button7 b {
+   font-size:311%;
+}
+.cs-inner3 h4 {
+  margin-left:30%;
+  width:48%;
+color: #4854ed;
+    
+    font-size: 24px;
+    font-weight: 400;
+
+}
+
+.cs-inner3 p {
+
+    margin-left:30%;
+    margin-top:3%;
+font-size: 16px;
+    letter-spacing: .03em;
+    color: #29293a;
+    font-weight: 300;
+    opacity: 80%;
+}
+
+.cs-inner4 {
+   margin-top:11%;
+}
+
+.button8 {
+   
+  font-size:14px;		 
+  padding: 14px 41px;
+  background-color: #4854ed;
+   border-radius:8px;
+  color:white;
+  text-align: center;
+    cursor:pointer;
+  font-family: "Oswald", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.2em;
+    border: 0;
+}   
+}
+.button8:hover {
+   background-color:blue;
+}
+.cs-about {
+   width:100%;
+  overflow:hidden;
+  background-color:#29293a;
+          font-family: 'Work Sans';   
+}
+.cs-about-containers {
+  
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-top:6%;
+    margin-bottom:3%;
+    
+}
+
+.cs-about1{
+
+   width:32%;
+   float:left;
+}
+.cs-about1 h4 {
+   margin-bottom:9%;
+  font-size: 24px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.cs-about1 p{
+        width: 100%;
+    letter-spacing: .03em;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #aeb1be;
+    font-weight: 300;
+}
+
+.cs-about2 {
+
+   width:30%;
+   float:left;
+   margin-left:4%;
+  
+}
+.cs-about2 h4 {
+   margin-bottom:9%;
+  font-size: 24px;
+    font-weight: 400;
+    color: #fff;
+   
+}
+.cs-about2 p{
+  
+    margin-bottom: 5%;
+    margin-left: 10%;
+    width: 72%;
+    letter-spacing: .03em;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #aeb1be;
+    font-weight: 300;   
+}
+.cs-about2 label {
+   float:left;
+   margin-right:2%;
+      color: #ffffff;
+      margin-top:2%;
+}
+.cs-about3 {
+   color:white;
+   width:31%;
+   float:left;
+  margin-left:3%;
+}
+.cs-about3 h4 {
+   margin-bottom:9%;
+   font-size: 24px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.cs-about3 p{
+letter-spacing: .03em;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #aeb1be;
+    font-weight: 300;
+}
+.cs-box {
+   margin-top:6%;
+   
+}
+
+.cs-box input{
+   border:0;
+    width: 100%;
+   height: 48px;
+    padding: 11px 19px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #29293a;
+    border-radius: 6px;
+    
+} 
+.cs-box input:hover {
+
+     border-color:blue;
+}
+.cs-about4 {
+
+   float:left;
+   width:100%;
+   margin-top:6%; 
+ 
+}
+
+.cs-about4 p {
+   float:right;
+   padding-top:2%;
+   color:white;   
+   opacity:60%; 
+}
+.cs-about4 img {
+
+   cursor:pointer;
+}
+.content{
+ background-image: url("B.images/picture.jpg");
+ height:400px;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
