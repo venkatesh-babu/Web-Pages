@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="17px" viewBox="0 0 20 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Header</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tablet-header" transform="translate(-1335.000000, -280.000000)" fill="#000000">
+            <g id="Header" transform="translate(1335.000000, 280.000000)">
+                <g transform="translate(0.000000, -0.000000)" id="Rectangle-80-+-Rectangle-81-+-Rectangle-82">
+                    <g>
+                        <rect id="Rectangle-80" x="0" y="0" width="20" height="3"></rect>
+                        <rect id="Rectangle-81" x="0" y="7" width="20" height="3"></rect>
+                        <rect id="Rectangle-82" x="0" y="14" width="20" height="3"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
